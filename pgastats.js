@@ -1,5 +1,7 @@
 const jsdom = require('jsdom');
-const { JSDOM } = jsdom;
+const {
+  JSDOM
+} = jsdom;
 const fetch = require('node-fetch');
 const fs = require('fs');
 
@@ -8,7 +10,9 @@ async function parse() {
   const tournaments = [];
 
   for (let i = 0; i < years.length; i++) {
-    const tournament = { year: years[i] };
+    const tournament = {
+      year: years[i]
+    };
     const result = await parseTournament(years[i]);
     tournament.players = result;
     tournaments.push(tournament);
@@ -19,12 +23,40 @@ async function parse() {
   for (let i = 0; i < tournaments.length; i++) {
     tournaments[i].players.forEach((stats, name) => {
       if (allPlayers.has(name)) {
-        const existingPlayer = 
+        const existingPlayer = allPlayers.get(name);
+        existingPlayer.positions.push(...stats.positions);
+        existingPlayer.scores.push(...stats.scores);
+      } else {
+        allPlayers.set(name, {
+          positions: stats.positions,
+          scores: stats.scores
+        });
       }
     });
   }
 
-  fs.writeFile('data.json', JSON.stringify(tournaments), err => console.log(err));
+  const logger = fs.createWriteStream('data.csv', {
+    flags: 'a'
+  });
+
+  allPlayers.forEach((stats, name) => {
+    let totalScore = 0;
+    let actualScores = 0;
+
+    stats.scores.forEach(score => {
+      if (score !== '--') {
+        totalScore += parseInt(score);
+        actualScores += 1;
+      }
+    });
+
+    stats.averageScore = totalScore / actualScores;
+    stats.totalRounds = actualScores;
+
+    logger.write(`${name},${stats.averageScore},${stats.totalRounds}\n`);
+  });
+
+  logger.end();
 }
 
 async function parseTournament(year) {
@@ -60,7 +92,10 @@ async function parseTournament(year) {
         existingPlayer.positions.push(roundPositions);
         existingPlayer.scores.push(roundScores);
       } else {
-        players.set(playerName, { positions: roundPositions, scores: roundScores });
+        players.set(playerName, {
+          positions: roundPositions,
+          scores: roundScores
+        });
       }
     });
 
