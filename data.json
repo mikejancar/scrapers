@@ -1,0 +1,9012 @@
+[
+  {
+    "year": 2015,
+    "players": [
+      {
+        "name": "David Lingmerth",
+        "positions": [
+          "T5",
+          "1",
+          "T2",
+          "1"
+        ],
+        "scores": [
+          "67",
+          "65",
+          "72",
+          "69"
+        ]
+      },
+      {
+        "name": "Justin Rose",
+        "positions": [
+          "T12",
+          "T5",
+          "1",
+          "2"
+        ],
+        "scores": [
+          "68",
+          "67",
+          "66",
+          "72"
+        ]
+      },
+      {
+        "name": "Francesco Molinari",
+        "positions": [
+          "T12",
+          "T5",
+          "T2",
+          "T3"
+        ],
+        "scores": [
+          "68",
+          "67",
+          "69",
+          "71"
+        ]
+      },
+      {
+        "name": "Jordan Spieth",
+        "positions": [
+          "T12",
+          "T16",
+          "T24",
+          "T3"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "72",
+          "65"
+        ]
+      },
+      {
+        "name": "Jim Furyk",
+        "positions": [
+          "T21",
+          "T5",
+          "4",
+          "T5"
+        ],
+        "scores": [
+          "69",
+          "66",
+          "70",
+          "71"
+        ]
+      },
+      {
+        "name": "Marc Leishman",
+        "positions": [
+          "T21",
+          "T11",
+          "T9",
+          "T5"
+        ],
+        "scores": [
+          "69",
+          "67",
+          "71",
+          "69"
+        ]
+      },
+      {
+        "name": "Hideki Matsuyama",
+        "positions": [
+          "T1",
+          "T5",
+          "T5",
+          "T5"
+        ],
+        "scores": [
+          "64",
+          "71",
+          "71",
+          "70"
+        ]
+      },
+      {
+        "name": "Keegan Bradley",
+        "positions": [
+          "T12",
+          "T53",
+          "T9",
+          "T8"
+        ],
+        "scores": [
+          "68",
+          "74",
+          "65",
+          "70"
+        ]
+      },
+      {
+        "name": "Tony Finau",
+        "positions": [
+          "T49",
+          "T13",
+          "T24",
+          "T8"
+        ],
+        "scores": [
+          "71",
+          "66",
+          "73",
+          "67"
+        ]
+      },
+      {
+        "name": "Kevin Kisner",
+        "positions": [
+          "T5",
+          "T16",
+          "T9",
+          "T8"
+        ],
+        "scores": [
+          "67",
+          "71",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "name": "Billy Horschel",
+        "positions": [
+          "T32",
+          "T16",
+          "T19",
+          "T11"
+        ],
+        "scores": [
+          "70",
+          "68",
+          "71",
+          "69"
+        ]
+      },
+      {
+        "name": "Vijay Singh",
+        "positions": [
+          "T49",
+          "T16",
+          "T19",
+          "T11"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "71",
+          "69"
+        ]
+      },
+      {
+        "name": "Dustin Johnson",
+        "positions": [
+          "T68",
+          "T64",
+          "T14",
+          "T13"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "65",
+          "71"
+        ]
+      },
+      {
+        "name": "George McNeill",
+        "positions": [
+          "T68",
+          "T64",
+          "T24",
+          "T13"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "67",
+          "69"
+        ]
+      },
+      {
+        "name": "Kevin Na",
+        "positions": [
+          "T49",
+          "T53",
+          "T14",
+          "T13"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "66",
+          "71"
+        ]
+      },
+      {
+        "name": "Andy Sullivan",
+        "positions": [
+          "T32",
+          "T3",
+          "T5",
+          "T13"
+        ],
+        "scores": [
+          "70",
+          "64",
+          "72",
+          "73"
+        ]
+      },
+      {
+        "name": "Brendon Todd",
+        "positions": [
+          "T5",
+          "T5",
+          "T5",
+          "17"
+        ],
+        "scores": [
+          "67",
+          "68",
+          "71",
+          "74"
+        ]
+      },
+      {
+        "name": "Harris English",
+        "positions": [
+          "T5",
+          "T16",
+          "T24",
+          "T18"
+        ],
+        "scores": [
+          "67",
+          "71",
+          "72",
+          "71"
+        ]
+      },
+      {
+        "name": "Bill Haas",
+        "positions": [
+          "T32",
+          "T45",
+          "T42",
+          "T18"
+        ],
+        "scores": [
+          "70",
+          "71",
+          "71",
+          "69"
+        ]
+      },
+      {
+        "name": "Russell Knox",
+        "positions": [
+          "T3",
+          "T33",
+          "T46",
+          "T18"
+        ],
+        "scores": [
+          "66",
+          "74",
+          "73",
+          "68"
+        ]
+      },
+      {
+        "name": "Ryan Moore",
+        "positions": [
+          "T5",
+          "T3",
+          "T19",
+          "T18"
+        ],
+        "scores": [
+          "67",
+          "67",
+          "75",
+          "72"
+        ]
+      },
+      {
+        "name": "Robert Streb",
+        "positions": [
+          "T85",
+          "T33",
+          "T35",
+          "T18"
+        ],
+        "scores": [
+          "73",
+          "67",
+          "71",
+          "70"
+        ]
+      },
+      {
+        "name": "Kevin Streelman",
+        "positions": [
+          "T49",
+          "T45",
+          "T5",
+          "T18"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "65",
+          "75"
+        ]
+      },
+      {
+        "name": "Jason Dufner",
+        "positions": [
+          "T3",
+          "2",
+          "T9",
+          "T24"
+        ],
+        "scores": [
+          "66",
+          "67",
+          "74",
+          "75"
+        ]
+      },
+      {
+        "name": "Rory Sabbatini",
+        "positions": [
+          "T68",
+          "T27",
+          "T24",
+          "T24"
+        ],
+        "scores": [
+          "72",
+          "67",
+          "71",
+          "72"
+        ]
+      },
+      {
+        "name": "Thomas Aiken",
+        "positions": [
+          "T21",
+          "T13",
+          "T9",
+          "T26"
+        ],
+        "scores": [
+          "69",
+          "68",
+          "70",
+          "76"
+        ]
+      },
+      {
+        "name": "Graham DeLaet",
+        "positions": [
+          "T21",
+          "T16",
+          "T24",
+          "T26"
+        ],
+        "scores": [
+          "69",
+          "69",
+          "72",
+          "73"
+        ]
+      },
+      {
+        "name": "Matt Kuchar",
+        "positions": [
+          "T32",
+          "T27",
+          "T19",
+          "T26"
+        ],
+        "scores": [
+          "70",
+          "69",
+          "70",
+          "74"
+        ]
+      },
+      {
+        "name": "Jeff Overton",
+        "positions": [
+          "T49",
+          "T53",
+          "T19",
+          "T26"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "67",
+          "74"
+        ]
+      },
+      {
+        "name": "Patrick Reed",
+        "positions": [
+          "T68",
+          "T33",
+          "T14",
+          "T26"
+        ],
+        "scores": [
+          "72",
+          "68",
+          "68",
+          "75"
+        ]
+      },
+      {
+        "name": "Greg Chalmers",
+        "positions": [
+          "T21",
+          "T53",
+          "T42",
+          "T31"
+        ],
+        "scores": [
+          "69",
+          "73",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Stewart Cink",
+        "positions": [
+          "T68",
+          "T64",
+          "T54",
+          "T31"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "71",
+          "70"
+        ]
+      },
+      {
+        "name": "Retief Goosen",
+        "positions": [
+          "T32",
+          "T45",
+          "T42",
+          "T31"
+        ],
+        "scores": [
+          "70",
+          "71",
+          "71",
+          "72"
+        ]
+      },
+      {
+        "name": "Charles Howell III",
+        "positions": [
+          "T102",
+          "T45",
+          "T35",
+          "T31"
+        ],
+        "scores": [
+          "75",
+          "66",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Chris Stroud",
+        "positions": [
+          "T32",
+          "T16",
+          "T24",
+          "T31"
+        ],
+        "scores": [
+          "70",
+          "68",
+          "72",
+          "74"
+        ]
+      },
+      {
+        "name": "Erik Compton",
+        "positions": [
+          "T12",
+          "T13",
+          "T14",
+          "T36"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "71",
+          "77"
+        ]
+      },
+      {
+        "name": "John Huh",
+        "positions": [
+          "T68",
+          "T16",
+          "T35",
+          "T36"
+        ],
+        "scores": [
+          "72",
+          "66",
+          "73",
+          "74"
+        ]
+      },
+      {
+        "name": "Chris Kirk",
+        "positions": [
+          "T21",
+          "T33",
+          "T58",
+          "T36"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "76",
+          "69"
+        ]
+      },
+      {
+        "name": "Carl Pettersson",
+        "positions": [
+          "T68",
+          "T27",
+          "T35",
+          "T36"
+        ],
+        "scores": [
+          "72",
+          "67",
+          "72",
+          "74"
+        ]
+      },
+      {
+        "name": "Matt Jones",
+        "positions": [
+          "T49",
+          "T27",
+          "T46",
+          "T40"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "74",
+          "73"
+        ]
+      },
+      {
+        "name": "Patrick Rodgers",
+        "positions": [
+          "T21",
+          "T5",
+          "T46",
+          "T40"
+        ],
+        "scores": [
+          "69",
+          "66",
+          "78",
+          "73"
+        ]
+      },
+      {
+        "name": "Shawn Stefani",
+        "positions": [
+          "T32",
+          "T53",
+          "T46",
+          "T40"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Steve Stricker",
+        "positions": [
+          "T21",
+          "T53",
+          "T63",
+          "T40"
+        ],
+        "scores": [
+          "69",
+          "73",
+          "76",
+          "68"
+        ]
+      },
+      {
+        "name": "Bo Van Pelt",
+        "positions": [
+          "T1",
+          "T11",
+          "T54",
+          "T40"
+        ],
+        "scores": [
+          "64",
+          "72",
+          "78",
+          "72"
+        ]
+      },
+      {
+        "name": "Jonathan Byrd",
+        "positions": [
+          "T12",
+          "T27",
+          "T24",
+          "T40"
+        ],
+        "scores": [
+          "68",
+          "71",
+          "71",
+          "76"
+        ]
+      },
+      {
+        "name": "Jim Herman",
+        "positions": [
+          "T32",
+          "T53",
+          "T24",
+          "T40"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "68",
+          "76"
+        ]
+      },
+      {
+        "name": "William McGirt",
+        "positions": [
+          "T32",
+          "T33",
+          "T24",
+          "T40"
+        ],
+        "scores": [
+          "70",
+          "70",
+          "70",
+          "76"
+        ]
+      },
+      {
+        "name": "Camilo Villegas",
+        "positions": [
+          "T85",
+          "T45",
+          "T46",
+          "T40"
+        ],
+        "scores": [
+          "73",
+          "68",
+          "72",
+          "73"
+        ]
+      },
+      {
+        "name": "Sangmoon Bae",
+        "positions": [
+          "T93",
+          "T33",
+          "T63",
+          "T49"
+        ],
+        "scores": [
+          "74",
+          "66",
+          "78",
+          "69"
+        ]
+      },
+      {
+        "name": "Kevin Chappell",
+        "positions": [
+          "T49",
+          "T64",
+          "T54",
+          "T49"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Chesson Hadley",
+        "positions": [
+          "T93",
+          "T33",
+          "T46",
+          "T49"
+        ],
+        "scores": [
+          "74",
+          "66",
+          "73",
+          "74"
+        ]
+      },
+      {
+        "name": "Jason Bohn",
+        "positions": [
+          "T102",
+          "T53",
+          "T58",
+          "T52"
+        ],
+        "scores": [
+          "75",
+          "67",
+          "74",
+          "72"
+        ]
+      },
+      {
+        "name": "Steven Bowditch",
+        "positions": [
+          "T21",
+          "T33",
+          "T14",
+          "T52"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "68",
+          "80"
+        ]
+      },
+      {
+        "name": "James Hahn",
+        "positions": [
+          "T49",
+          "T45",
+          "T54",
+          "T52"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "73",
+          "74"
+        ]
+      },
+      {
+        "name": "Brooks Koepka",
+        "positions": [
+          "T49",
+          "T45",
+          "T24",
+          "T52"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "69",
+          "78"
+        ]
+      },
+      {
+        "name": "Troy Merritt",
+        "positions": [
+          "T32",
+          "T27",
+          "T35",
+          "T52"
+        ],
+        "scores": [
+          "70",
+          "69",
+          "72",
+          "77"
+        ]
+      },
+      {
+        "name": "Adam Hadwin",
+        "positions": [
+          "T68",
+          "T33",
+          "T35",
+          "T57"
+        ],
+        "scores": [
+          "72",
+          "68",
+          "71",
+          "78"
+        ]
+      },
+      {
+        "name": "Pat Perez",
+        "positions": [
+          "T12",
+          "T16",
+          "T46",
+          "T57"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "75",
+          "76"
+        ]
+      },
+      {
+        "name": "John Senden",
+        "positions": [
+          "T49",
+          "T53",
+          "T58",
+          "T57"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "74",
+          "73"
+        ]
+      },
+      {
+        "name": "Andrew Svoboda",
+        "positions": [
+          "T32",
+          "T33",
+          "T61",
+          "T57"
+        ],
+        "scores": [
+          "70",
+          "70",
+          "77",
+          "72"
+        ]
+      },
+      {
+        "name": "Zac Blair",
+        "positions": [
+          "T102",
+          "T64",
+          "T46",
+          "T61"
+        ],
+        "scores": [
+          "75",
+          "68",
+          "70",
+          "77"
+        ]
+      },
+      {
+        "name": "Brian Stuard",
+        "positions": [
+          "T12",
+          "T64",
+          "T61",
+          "T61"
+        ],
+        "scores": [
+          "68",
+          "75",
+          "74",
+          "73"
+        ]
+      },
+      {
+        "name": "Brendan Steele",
+        "positions": [
+          "T49",
+          "T16",
+          "T35",
+          "T63"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "73",
+          "80"
+        ]
+      },
+      {
+        "name": "Hudson Swafford",
+        "positions": [
+          "T49",
+          "T45",
+          "T68",
+          "T63"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "79",
+          "71"
+        ]
+      },
+      {
+        "name": "Ken Duke",
+        "positions": [
+          "T5",
+          "T53",
+          "T66",
+          "T65"
+        ],
+        "scores": [
+          "67",
+          "75",
+          "77",
+          "74"
+        ]
+      },
+      {
+        "name": "Phil Mickelson",
+        "positions": [
+          "T68",
+          "T33",
+          "T63",
+          "T65"
+        ],
+        "scores": [
+          "72",
+          "68",
+          "78",
+          "75"
+        ]
+      },
+      {
+        "name": "Nick Watney",
+        "positions": [
+          "T49",
+          "T64",
+          "T68",
+          "T65"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "77",
+          "73"
+        ]
+      },
+      {
+        "name": "Lucas Glover",
+        "positions": [
+          "T12",
+          "T33",
+          "70",
+          "T68"
+        ],
+        "scores": [
+          "68",
+          "72",
+          "82",
+          "72"
+        ]
+      },
+      {
+        "name": "Scott Langley",
+        "positions": [
+          "T32",
+          "T53",
+          "T66",
+          "T68"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "77",
+          "75"
+        ]
+      },
+      {
+        "name": "Andrew Putnam",
+        "positions": [
+          "T68",
+          "T16",
+          "T42",
+          "T68"
+        ],
+        "scores": [
+          "72",
+          "66",
+          "74",
+          "82"
+        ]
+      },
+      {
+        "name": "Tiger Woods",
+        "positions": [
+          "T85",
+          "T64",
+          "71",
+          "71"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "85",
+          "74"
+        ]
+      },
+      {
+        "name": "Scott Brown",
+        "positions": [
+          "T49",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "K.J. Choi",
+        "positions": [
+          "T49",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jason Day",
+        "positions": [
+          "T68",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Brendon de Jonge",
+        "positions": [
+          "T68",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Rickie Fowler",
+        "positions": [
+          "T68",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Carlos Ortiz",
+        "positions": [
+          "T93",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kenny Perry",
+        "positions": [
+          "T49",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Daniel Summerhays",
+        "positions": [
+          "T93",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Steve Wheatcroft",
+        "positions": [
+          "T49",
+          "T72",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Andres Gonzales",
+        "positions": [
+          "T85",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "David Hearn",
+        "positions": [
+          "T32",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Colt Knost",
+        "positions": [
+          "T32",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Danny Lee",
+        "positions": [
+          "T102",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Justin Leonard",
+        "positions": [
+          "T85",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Piercy",
+        "positions": [
+          "T68",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kyle Reifers",
+        "positions": [
+          "T5",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "67",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Justin Thomas",
+        "positions": [
+          "T21",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "69",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Gary Woodland",
+        "positions": [
+          "T110",
+          "T81",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "69",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Matt Every",
+        "positions": [
+          "T93",
+          "T90",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Martin Laird",
+        "positions": [
+          "T68",
+          "T90",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ben Martin",
+        "positions": [
+          "T102",
+          "T90",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Charl Schwartzel",
+        "positions": [
+          "T93",
+          "T90",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Stallings",
+        "positions": [
+          "T32",
+          "T90",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Richard Sterne",
+        "positions": [
+          "T93",
+          "T90",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Daniel Berger",
+        "positions": [
+          "T49",
+          "T96",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ben Curtis",
+        "positions": [
+          "T68",
+          "T96",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Gonzalo Fernandez-Castaño",
+        "positions": [
+          "T21",
+          "T96",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "69",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Tommy Fleetwood",
+        "positions": [
+          "T110",
+          "T96",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Nick Taylor",
+        "positions": [
+          "T93",
+          "T96",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ryo Ishikawa",
+        "positions": [
+          "T102",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jason Kokrak",
+        "positions": [
+          "T32",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Seung-Yul Noh",
+        "positions": [
+          "T32",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "D.A. Points",
+        "positions": [
+          "T85",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Michael Putnam",
+        "positions": [
+          "T102",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ernie Els",
+        "positions": [
+          "117",
+          "T106",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Sean O'Hair",
+        "positions": [
+          "T49",
+          "T106",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "John Peterson",
+        "positions": [
+          "T118",
+          "T106",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Cameron Smith",
+        "positions": [
+          "T93",
+          "T106",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "George Coetzee",
+        "positions": [
+          "T110",
+          "T110",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Timothy Crouch",
+        "positions": [
+          "T110",
+          "T110",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jason Gore",
+        "positions": [
+          "T110",
+          "T110",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Will MacKenzie",
+        "positions": [
+          "T85",
+          "T110",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Cameron Tringale",
+        "positions": [
+          "T118",
+          "T110",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Russell Henley",
+        "positions": [
+          "T110",
+          "115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Morgan Hoffmann",
+        "positions": [
+          "T118",
+          "116",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Gunn Yang",
+        "positions": [
+          "T68",
+          "117",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "82",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Sam Saunders",
+        "positions": [
+          "T110",
+          "118",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "80",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Bradley Neil",
+        "positions": [
+          "T102",
+          "119",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "83",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Alex Cejka",
+        "positions": [
+          "T85",
+          "",
+          "",
+          "DQ"
+        ],
+        "scores": [
+          "73",
+          "--",
+          "--",
+          "--"
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "players": [
+      {
+        "name": "William McGirt",
+        "positions": [
+          "T44",
+          "T22",
+          "T1",
+          "1"
+        ],
+        "scores": [
+          "70",
+          "68",
+          "64",
+          "71"
+        ]
+      },
+      {
+        "name": "Jon Curran",
+        "positions": [
+          "T13",
+          "T5",
+          "T4",
+          "2"
+        ],
+        "scores": [
+          "68",
+          "67",
+          "68",
+          "70"
+        ]
+      },
+      {
+        "name": "Dustin Johnson",
+        "positions": [
+          "1",
+          "T5",
+          "T4",
+          "3"
+        ],
+        "scores": [
+          "64",
+          "71",
+          "68",
+          "71"
+        ]
+      },
+      {
+        "name": "J.B. Holmes",
+        "positions": [
+          "T58",
+          "T32",
+          "T16",
+          "T4"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "67",
+          "69"
+        ]
+      },
+      {
+        "name": "Matt Kuchar",
+        "positions": [
+          "T3",
+          "T1",
+          "T1",
+          "T4"
+        ],
+        "scores": [
+          "66",
+          "66",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Rory McIlroy",
+        "positions": [
+          "T58",
+          "T12",
+          "T21",
+          "T4"
+        ],
+        "scores": [
+          "71",
+          "66",
+          "70",
+          "68"
+        ]
+      },
+      {
+        "name": "Gary Woodland",
+        "positions": [
+          "T13",
+          "T3",
+          "T1",
+          "T4"
+        ],
+        "scores": [
+          "68",
+          "65",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Keegan Bradley",
+        "positions": [
+          "T13",
+          "T12",
+          "T21",
+          "T8"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "70",
+          "69"
+        ]
+      },
+      {
+        "name": "Patrick Reed",
+        "positions": [
+          "T13",
+          "T32",
+          "T30",
+          "T8"
+        ],
+        "scores": [
+          "68",
+          "71",
+          "69",
+          "68"
+        ]
+      },
+      {
+        "name": "Kevin Streelman",
+        "positions": [
+          "T8",
+          "T5",
+          "T8",
+          "T8"
+        ],
+        "scores": [
+          "67",
+          "68",
+          "69",
+          "72"
+        ]
+      },
+      {
+        "name": "Byeong Hun An",
+        "positions": [
+          "T58",
+          "T53",
+          "T46",
+          "T11"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "69",
+          "67"
+        ]
+      },
+      {
+        "name": "Roberto Castro",
+        "positions": [
+          "T44",
+          "T43",
+          "T51",
+          "T11"
+        ],
+        "scores": [
+          "70",
+          "70",
+          "71",
+          "66"
+        ]
+      },
+      {
+        "name": "Tony Finau",
+        "positions": [
+          "T44",
+          "T32",
+          "T35",
+          "T11"
+        ],
+        "scores": [
+          "70",
+          "69",
+          "70",
+          "68"
+        ]
+      },
+      {
+        "name": "Marc Leishman",
+        "positions": [
+          "T29",
+          "T43",
+          "T35",
+          "T11"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "69",
+          "68"
+        ]
+      },
+      {
+        "name": "Charl Schwartzel",
+        "positions": [
+          "T13",
+          "T12",
+          "T35",
+          "T11"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "72",
+          "68"
+        ]
+      },
+      {
+        "name": "John Senden",
+        "positions": [
+          "T29",
+          "T32",
+          "T21",
+          "T11"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "68",
+          "70"
+        ]
+      },
+      {
+        "name": "Emiliano Grillo",
+        "positions": [
+          "T8",
+          "T3",
+          "T4",
+          "T11"
+        ],
+        "scores": [
+          "67",
+          "66",
+          "70",
+          "74"
+        ]
+      },
+      {
+        "name": "Adam Hadwin",
+        "positions": [
+          "T44",
+          "T9",
+          "T4",
+          "T11"
+        ],
+        "scores": [
+          "70",
+          "66",
+          "67",
+          "74"
+        ]
+      },
+      {
+        "name": "Webb Simpson",
+        "positions": [
+          "T29",
+          "T32",
+          "T11",
+          "T11"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "66",
+          "72"
+        ]
+      },
+      {
+        "name": "Matt Jones",
+        "positions": [
+          "T58",
+          "T32",
+          "T21",
+          "T20"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "68",
+          "71"
+        ]
+      },
+      {
+        "name": "Smylie Kaufman",
+        "positions": [
+          "T58",
+          "T22",
+          "T35",
+          "T20"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "71",
+          "69"
+        ]
+      },
+      {
+        "name": "Phil Mickelson",
+        "positions": [
+          "T13",
+          "T12",
+          "T16",
+          "T20"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "69",
+          "72"
+        ]
+      },
+      {
+        "name": "Kyle Reifers",
+        "positions": [
+          "T58",
+          "T22",
+          "T35",
+          "T20"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "71",
+          "69"
+        ]
+      },
+      {
+        "name": "Brendan Steele",
+        "positions": [
+          "2",
+          "T1",
+          "T21",
+          "T20"
+        ],
+        "scores": [
+          "65",
+          "67",
+          "75",
+          "71"
+        ]
+      },
+      {
+        "name": "Søren Kjeldsen",
+        "positions": [
+          "T58",
+          "T43",
+          "T8",
+          "T20"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "64",
+          "74"
+        ]
+      },
+      {
+        "name": "Robert Streb",
+        "positions": [
+          "T13",
+          "T53",
+          "T11",
+          "T20"
+        ],
+        "scores": [
+          "68",
+          "73",
+          "64",
+          "73"
+        ]
+      },
+      {
+        "name": "Zac Blair",
+        "positions": [
+          "T29",
+          "T9",
+          "T8",
+          "T27"
+        ],
+        "scores": [
+          "69",
+          "67",
+          "68",
+          "75"
+        ]
+      },
+      {
+        "name": "Scott Brown",
+        "positions": [
+          "T29",
+          "T9",
+          "T11",
+          "T27"
+        ],
+        "scores": [
+          "69",
+          "67",
+          "69",
+          "74"
+        ]
+      },
+      {
+        "name": "Jason Day",
+        "positions": [
+          "T3",
+          "T12",
+          "T11",
+          "T27"
+        ],
+        "scores": [
+          "66",
+          "71",
+          "68",
+          "74"
+        ]
+      },
+      {
+        "name": "David Hearn",
+        "positions": [
+          "T3",
+          "T32",
+          "T51",
+          "T27"
+        ],
+        "scores": [
+          "66",
+          "73",
+          "72",
+          "68"
+        ]
+      },
+      {
+        "name": "John Huh",
+        "positions": [
+          "T29",
+          "T22",
+          "T11",
+          "T27"
+        ],
+        "scores": [
+          "69",
+          "69",
+          "67",
+          "74"
+        ]
+      },
+      {
+        "name": "David Lingmerth",
+        "positions": [
+          "T13",
+          "T53",
+          "T35",
+          "T27"
+        ],
+        "scores": [
+          "68",
+          "73",
+          "68",
+          "70"
+        ]
+      },
+      {
+        "name": "Jason Dufner",
+        "positions": [
+          "T13",
+          "T22",
+          "T30",
+          "T33"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Lucas Glover",
+        "positions": [
+          "T44",
+          "T12",
+          "T46",
+          "T33"
+        ],
+        "scores": [
+          "70",
+          "67",
+          "73",
+          "70"
+        ]
+      },
+      {
+        "name": "Brian Harman",
+        "positions": [
+          "T13",
+          "T22",
+          "T21",
+          "T33"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Russell Henley",
+        "positions": [
+          "T13",
+          "T22",
+          "T21",
+          "T33"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Geoff Ogilvy",
+        "positions": [
+          "T13",
+          "T12",
+          "T21",
+          "T33"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Bud Cauley",
+        "positions": [
+          "T29",
+          "T62",
+          "T30",
+          "T38"
+        ],
+        "scores": [
+          "69",
+          "73",
+          "66",
+          "73"
+        ]
+      },
+      {
+        "name": "Bryson DeChambeau",
+        "positions": [
+          "T80",
+          "T32",
+          "T30",
+          "T38"
+        ],
+        "scores": [
+          "72",
+          "67",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Patton Kizzire",
+        "positions": [
+          "T96",
+          "T43",
+          "T46",
+          "T38"
+        ],
+        "scores": [
+          "73",
+          "67",
+          "70",
+          "71"
+        ]
+      },
+      {
+        "name": "Ben Martin",
+        "positions": [
+          "T29",
+          "T43",
+          "T35",
+          "T38"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "69",
+          "72"
+        ]
+      },
+      {
+        "name": "George McNeill",
+        "positions": [
+          "T58",
+          "T62",
+          "T51",
+          "T38"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "name": "Ryan Ruffels",
+        "positions": [
+          "T8",
+          "T22",
+          "T30",
+          "T38"
+        ],
+        "scores": [
+          "67",
+          "71",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Daniel Summerhays",
+        "positions": [
+          "T80",
+          "T32",
+          "T35",
+          "T38"
+        ],
+        "scores": [
+          "72",
+          "67",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Hudson Swafford",
+        "positions": [
+          "T3",
+          "T12",
+          "T16",
+          "T38"
+        ],
+        "scores": [
+          "66",
+          "71",
+          "69",
+          "75"
+        ]
+      },
+      {
+        "name": "Jonas Blixt",
+        "positions": [
+          "T58",
+          "T43",
+          "T35",
+          "T46"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Hiroshi Iwata",
+        "positions": [
+          "T107",
+          "T62",
+          "T58",
+          "T46"
+        ],
+        "scores": [
+          "75",
+          "67",
+          "70",
+          "70"
+        ]
+      },
+      {
+        "name": "Kevin Chappell",
+        "positions": [
+          "T58",
+          "T53",
+          "T51",
+          "T48"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Jason Gore",
+        "positions": [
+          "T80",
+          "T32",
+          "T46",
+          "T48"
+        ],
+        "scores": [
+          "72",
+          "67",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Charles Howell III",
+        "positions": [
+          "T80",
+          "T62",
+          "T64",
+          "T48"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "72",
+          "69"
+        ]
+      },
+      {
+        "name": "Ryan Moore",
+        "positions": [
+          "T44",
+          "T12",
+          "T21",
+          "T48"
+        ],
+        "scores": [
+          "70",
+          "67",
+          "70",
+          "76"
+        ]
+      },
+      {
+        "name": "Rafa Cabrera Bello",
+        "positions": [
+          "T29",
+          "T62",
+          "T62",
+          "T52"
+        ],
+        "scores": [
+          "69",
+          "73",
+          "71",
+          "71"
+        ]
+      },
+      {
+        "name": "K.J. Choi",
+        "positions": [
+          "T13",
+          "T12",
+          "T16",
+          "T52"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "69",
+          "78"
+        ]
+      },
+      {
+        "name": "Jim Furyk",
+        "positions": [
+          "T29",
+          "T32",
+          "T51",
+          "T52"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "72",
+          "73"
+        ]
+      },
+      {
+        "name": "Danny Lee",
+        "positions": [
+          "T3",
+          "T53",
+          "T35",
+          "T52"
+        ],
+        "scores": [
+          "66",
+          "75",
+          "68",
+          "75"
+        ]
+      },
+      {
+        "name": "Jamie Lovemark",
+        "positions": [
+          "T29",
+          "T53",
+          "T51",
+          "T52"
+        ],
+        "scores": [
+          "69",
+          "72",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Alex Cejka",
+        "positions": [
+          "T44",
+          "T62",
+          "T46",
+          "T57"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "68",
+          "75"
+        ]
+      },
+      {
+        "name": "Spencer Levin",
+        "positions": [
+          "T96",
+          "T62",
+          "T58",
+          "T57"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Jordan Spieth",
+        "positions": [
+          "T44",
+          "T22",
+          "T58",
+          "T57"
+        ],
+        "scores": [
+          "70",
+          "68",
+          "74",
+          "73"
+        ]
+      },
+      {
+        "name": "Harold Varner III",
+        "positions": [
+          "T13",
+          "T5",
+          "T16",
+          "T57"
+        ],
+        "scores": [
+          "68",
+          "67",
+          "71",
+          "79"
+        ]
+      },
+      {
+        "name": "Jason Bohn",
+        "positions": [
+          "T8",
+          "T22",
+          "T35",
+          "T61"
+        ],
+        "scores": [
+          "67",
+          "71",
+          "71",
+          "77"
+        ]
+      },
+      {
+        "name": "Anirban Lahiri",
+        "positions": [
+          "T44",
+          "T62",
+          "T51",
+          "T61"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "69",
+          "75"
+        ]
+      },
+      {
+        "name": "Rod Pampling",
+        "positions": [
+          "T80",
+          "T62",
+          "66",
+          "T61"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "73",
+          "71"
+        ]
+      },
+      {
+        "name": "Russell Knox",
+        "positions": [
+          "T96",
+          "T62",
+          "T58",
+          "64"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "70",
+          "75"
+        ]
+      },
+      {
+        "name": "Camilo Villegas",
+        "positions": [
+          "T29",
+          "T53",
+          "T62",
+          "T65"
+        ],
+        "scores": [
+          "69",
+          "72",
+          "72",
+          "75"
+        ]
+      },
+      {
+        "name": "Bubba Watson",
+        "positions": [
+          "T80",
+          "T62",
+          "T67",
+          "T65"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "74",
+          "72"
+        ]
+      },
+      {
+        "name": "Daniel Berger",
+        "positions": [
+          "T29",
+          "T62",
+          "T72",
+          "67"
+        ],
+        "scores": [
+          "69",
+          "73",
+          "76",
+          "71"
+        ]
+      },
+      {
+        "name": "Luke Donald",
+        "positions": [
+          "T8",
+          "T43",
+          "T72",
+          "68"
+        ],
+        "scores": [
+          "67",
+          "73",
+          "78",
+          "72"
+        ]
+      },
+      {
+        "name": "Ken Duke",
+        "positions": [
+          "T80",
+          "T62",
+          "T64",
+          "T69"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "72",
+          "77"
+        ]
+      },
+      {
+        "name": "Freddie Jacobson",
+        "positions": [
+          "T80",
+          "T43",
+          "T70",
+          "T69"
+        ],
+        "scores": [
+          "72",
+          "68",
+          "77",
+          "74"
+        ]
+      },
+      {
+        "name": "Scott Piercy",
+        "positions": [
+          "T44",
+          "T53",
+          "T67",
+          "T69"
+        ],
+        "scores": [
+          "70",
+          "71",
+          "75",
+          "75"
+        ]
+      },
+      {
+        "name": "Brian Stuard",
+        "positions": [
+          "T29",
+          "T53",
+          "T72",
+          "T69"
+        ],
+        "scores": [
+          "69",
+          "72",
+          "77",
+          "73"
+        ]
+      },
+      {
+        "name": "George Coetzee",
+        "positions": [
+          "T58",
+          "T43",
+          "T70",
+          "73"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "77",
+          "75"
+        ]
+      },
+      {
+        "name": "Si Woo Kim",
+        "positions": [
+          "T58",
+          "T43",
+          "75",
+          "T74"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "80",
+          "73"
+        ]
+      },
+      {
+        "name": "Kevin Na",
+        "positions": [
+          "T58",
+          "T62",
+          "T67",
+          "T74"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "74",
+          "77"
+        ]
+      },
+      {
+        "name": "Thomas Aiken",
+        "positions": [
+          "T80",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Brendon de Jonge",
+        "positions": [
+          "T96",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Bill Haas",
+        "positions": [
+          "T44",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jim Herman",
+        "positions": [
+          "T80",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Nathan Holman",
+        "positions": [
+          "T58",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Chris Kirk",
+        "positions": [
+          "T96",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Peter Malnati",
+        "positions": [
+          "T80",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Pinckney",
+        "positions": [
+          "T13",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "68",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Patrick Rodgers",
+        "positions": [
+          "T13",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "68",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Shawn Stefani",
+        "positions": [
+          "T44",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Cameron Tringale",
+        "positions": [
+          "T58",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Johnson Wagner",
+        "positions": [
+          "T58",
+          "T76",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Aaron Baddeley",
+        "positions": [
+          "T58",
+          "T88",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ricky Barnes",
+        "positions": [
+          "T58",
+          "T88",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ernie Els",
+        "positions": [
+          "T112",
+          "T88",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "68",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Rickie Fowler",
+        "positions": [
+          "T107",
+          "T88",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "69",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jason Kokrak",
+        "positions": [
+          "T80",
+          "T88",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Thorbjørn Olesen",
+        "positions": [
+          "T80",
+          "T88",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Vaughn Taylor",
+        "positions": [
+          "T58",
+          "T88",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Morgan Hoffmann",
+        "positions": [
+          "T29",
+          "T95",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "69",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Wes Homan",
+        "positions": [
+          "T96",
+          "T95",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Langley",
+        "positions": [
+          "T58",
+          "T95",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Troy Merritt",
+        "positions": [
+          "T107",
+          "T95",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Chez Reavie",
+        "positions": [
+          "T80",
+          "T95",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kevin Kisner",
+        "positions": [
+          "T80",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Sean O'Hair",
+        "positions": [
+          "T117",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "69",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ethan Tracy",
+        "positions": [
+          "T58",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Stuart Appleby",
+        "positions": [
+          "T44",
+          "T103",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Paul Casey",
+        "positions": [
+          "T44",
+          "T103",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Hideki Matsuyama",
+        "positions": [
+          "T105",
+          "T103",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Francesco Molinari",
+        "positions": [
+          "T58",
+          "T103",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Carlos Ortiz",
+        "positions": [
+          "T105",
+          "T103",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Brendon Todd",
+        "positions": [
+          "T80",
+          "T103",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "John Hahn",
+        "positions": [
+          "T96",
+          "T109",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Mark Hubbard",
+        "positions": [
+          "T96",
+          "T109",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "D.H. Lee",
+        "positions": [
+          "T107",
+          "111",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Fabián Gómez",
+        "positions": [
+          "T96",
+          "112",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Hunter Mahan",
+        "positions": [
+          "120",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "80",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Carl Pettersson",
+        "positions": [
+          "T112",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Andrew Loupe",
+        "positions": [
+          "T112",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jhonattan Vegas",
+        "positions": [
+          "T112",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Justin Thomas",
+        "positions": [
+          "T117",
+          "117",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Steven Bowditch",
+        "positions": [
+          "T117",
+          "118",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ángel Cabrera",
+        "positions": [
+          "T107",
+          "",
+          "",
+          "W/D"
+        ],
+        "scores": [
+          "75",
+          "--",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Davis Love III",
+        "positions": [
+          "T112",
+          "",
+          "",
+          "W/D"
+        ],
+        "scores": [
+          "76",
+          "--",
+          "--",
+          "--"
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "players": [
+      {
+        "name": "Jason Dufner",
+        "positions": [
+          "T1",
+          "1",
+          "T3",
+          "1"
+        ],
+        "scores": [
+          "65",
+          "65",
+          "77",
+          "68"
+        ]
+      },
+      {
+        "name": "Rickie Fowler",
+        "positions": [
+          "T13",
+          "3",
+          "T6",
+          "T2"
+        ],
+        "scores": [
+          "70",
+          "66",
+          "72",
+          "70"
+        ]
+      },
+      {
+        "name": "Anirban Lahiri",
+        "positions": [
+          "T63",
+          "T40",
+          "T27",
+          "T2"
+        ],
+        "scores": [
+          "74",
+          "70",
+          "69",
+          "65"
+        ]
+      },
+      {
+        "name": "Matt Kuchar",
+        "positions": [
+          "T9",
+          "T7",
+          "2",
+          "T4"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "67",
+          "73"
+        ]
+      },
+      {
+        "name": "Justin Thomas",
+        "positions": [
+          "T5",
+          "T4",
+          "T3",
+          "T4"
+        ],
+        "scores": [
+          "67",
+          "71",
+          "69",
+          "72"
+        ]
+      },
+      {
+        "name": "James Hahn",
+        "positions": [
+          "T63",
+          "T60",
+          "T14",
+          "T6"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "65",
+          "69"
+        ]
+      },
+      {
+        "name": "Kevin Kisner",
+        "positions": [
+          "T13",
+          "T7",
+          "T8",
+          "T6"
+        ],
+        "scores": [
+          "70",
+          "69",
+          "70",
+          "71"
+        ]
+      },
+      {
+        "name": "Kyle Stanley",
+        "positions": [
+          "T63",
+          "T20",
+          "T19",
+          "T6"
+        ],
+        "scores": [
+          "74",
+          "67",
+          "71",
+          "68"
+        ]
+      },
+      {
+        "name": "Bubba Watson",
+        "positions": [
+          "T26",
+          "T7",
+          "T3",
+          "T6"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "68",
+          "73"
+        ]
+      },
+      {
+        "name": "Graham DeLaet",
+        "positions": [
+          "T48",
+          "T13",
+          "T27",
+          "T10"
+        ],
+        "scores": [
+          "73",
+          "67",
+          "73",
+          "68"
+        ]
+      },
+      {
+        "name": "Jamie Lovemark",
+        "positions": [
+          "T9",
+          "T4",
+          "T6",
+          "T10"
+        ],
+        "scores": [
+          "69",
+          "69",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Daniel Summerhays",
+        "positions": [
+          "T3",
+          "2",
+          "1",
+          "T10"
+        ],
+        "scores": [
+          "66",
+          "69",
+          "68",
+          "78"
+        ]
+      },
+      {
+        "name": "Jordan Spieth",
+        "positions": [
+          "T3",
+          "T4",
+          "T8",
+          "T13"
+        ],
+        "scores": [
+          "66",
+          "72",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Kevin Streelman",
+        "positions": [
+          "T48",
+          "T24",
+          "T8",
+          "T13"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "67",
+          "73"
+        ]
+      },
+      {
+        "name": "Jason Day",
+        "positions": [
+          "T73",
+          "T60",
+          "T27",
+          "T15"
+        ],
+        "scores": [
+          "75",
+          "71",
+          "67",
+          "70"
+        ]
+      },
+      {
+        "name": "Marc Leishman",
+        "positions": [
+          "T13",
+          "T13",
+          "T19",
+          "T15"
+        ],
+        "scores": [
+          "70",
+          "70",
+          "72",
+          "71"
+        ]
+      },
+      {
+        "name": "David Lingmerth",
+        "positions": [
+          "T1",
+          "T7",
+          "T11",
+          "T15"
+        ],
+        "scores": [
+          "65",
+          "74",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Shane Lowry",
+        "positions": [
+          "T35",
+          "T13",
+          "T11",
+          "T15"
+        ],
+        "scores": [
+          "72",
+          "68",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Jim Herman",
+        "positions": [
+          "T13",
+          "T40",
+          "T14",
+          "T19"
+        ],
+        "scores": [
+          "70",
+          "74",
+          "67",
+          "73"
+        ]
+      },
+      {
+        "name": "Pat Perez",
+        "positions": [
+          "T13",
+          "T24",
+          "T14",
+          "T19"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Harold Varner III",
+        "positions": [
+          "T48",
+          "T40",
+          "T38",
+          "T19"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "70",
+          "70"
+        ]
+      },
+      {
+        "name": "Ricky Barnes",
+        "positions": [
+          "T13",
+          "T64",
+          "T47",
+          "T22"
+        ],
+        "scores": [
+          "70",
+          "77",
+          "69",
+          "69"
+        ]
+      },
+      {
+        "name": "Ross Fisher",
+        "positions": [
+          "T48",
+          "T24",
+          "T19",
+          "T22"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Phil Mickelson",
+        "positions": [
+          "T13",
+          "T13",
+          "T19",
+          "T22"
+        ],
+        "scores": [
+          "70",
+          "70",
+          "72",
+          "73"
+        ]
+      },
+      {
+        "name": "Byeong Hun An",
+        "positions": [
+          "T7",
+          "T13",
+          "T14",
+          "T25"
+        ],
+        "scores": [
+          "68",
+          "72",
+          "71",
+          "75"
+        ]
+      },
+      {
+        "name": "Bud Cauley",
+        "positions": [
+          "T73",
+          "T24",
+          "T19",
+          "T25"
+        ],
+        "scores": [
+          "75",
+          "67",
+          "70",
+          "74"
+        ]
+      },
+      {
+        "name": "Stewart Cink",
+        "positions": [
+          "T35",
+          "T49",
+          "T27",
+          "T25"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "68",
+          "73"
+        ]
+      },
+      {
+        "name": "Brett Coletta",
+        "positions": [
+          "T35",
+          "T20",
+          "T27",
+          "T25"
+        ],
+        "scores": [
+          "72",
+          "69",
+          "72",
+          "73"
+        ]
+      },
+      {
+        "name": "Bill Haas",
+        "positions": [
+          "T48",
+          "T24",
+          "T27",
+          "T25"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Peter Uihlein",
+        "positions": [
+          "T82",
+          "T49",
+          "T27",
+          "T25"
+        ],
+        "scores": [
+          "76",
+          "69",
+          "68",
+          "73"
+        ]
+      },
+      {
+        "name": "Jonas Blixt",
+        "positions": [
+          "T73",
+          "T40",
+          "T38",
+          "T31"
+        ],
+        "scores": [
+          "75",
+          "69",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Padraig Harrington",
+        "positions": [
+          "T26",
+          "T24",
+          "T38",
+          "T31"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "72",
+          "73"
+        ]
+      },
+      {
+        "name": "Brooks Koepka",
+        "positions": [
+          "T9",
+          "T24",
+          "T27",
+          "T31"
+        ],
+        "scores": [
+          "69",
+          "73",
+          "71",
+          "74"
+        ]
+      },
+      {
+        "name": "Adam Scott",
+        "positions": [
+          "T82",
+          "T24",
+          "T27",
+          "T31"
+        ],
+        "scores": [
+          "76",
+          "66",
+          "71",
+          "74"
+        ]
+      },
+      {
+        "name": "Patrick Cantlay",
+        "positions": [
+          "T26",
+          "T35",
+          "T53",
+          "T35"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "74",
+          "71"
+        ]
+      },
+      {
+        "name": "Jason Kokrak",
+        "positions": [
+          "T48",
+          "T13",
+          "T11",
+          "T35"
+        ],
+        "scores": [
+          "73",
+          "67",
+          "70",
+          "78"
+        ]
+      },
+      {
+        "name": "Ben Martin",
+        "positions": [
+          "T26",
+          "T49",
+          "T47",
+          "T35"
+        ],
+        "scores": [
+          "71",
+          "74",
+          "71",
+          "72"
+        ]
+      },
+      {
+        "name": "Grayson Murray",
+        "positions": [
+          "T35",
+          "T35",
+          "T38",
+          "T35"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "71",
+          "74"
+        ]
+      },
+      {
+        "name": "Charl Schwartzel",
+        "positions": [
+          "T13",
+          "T20",
+          "T19",
+          "T35"
+        ],
+        "scores": [
+          "70",
+          "71",
+          "71",
+          "76"
+        ]
+      },
+      {
+        "name": "Tony Finau",
+        "positions": [
+          "T63",
+          "T64",
+          "T44",
+          "T40"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "68",
+          "74"
+        ]
+      },
+      {
+        "name": "Emiliano Grillo",
+        "positions": [
+          "T26",
+          "T7",
+          "T19",
+          "T40"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "73",
+          "77"
+        ]
+      },
+      {
+        "name": "Zach Johnson",
+        "positions": [
+          "T82",
+          "T64",
+          "T53",
+          "T40"
+        ],
+        "scores": [
+          "76",
+          "71",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Cheng Tsung Pan",
+        "positions": [
+          "T82",
+          "T40",
+          "T38",
+          "T40"
+        ],
+        "scores": [
+          "76",
+          "68",
+          "70",
+          "75"
+        ]
+      },
+      {
+        "name": "Steve Stricker",
+        "positions": [
+          "T63",
+          "T24",
+          "T14",
+          "T40"
+        ],
+        "scores": [
+          "74",
+          "68",
+          "69",
+          "78"
+        ]
+      },
+      {
+        "name": "Lucas Glover",
+        "positions": [
+          "T5",
+          "T13",
+          "T19",
+          "T45"
+        ],
+        "scores": [
+          "67",
+          "73",
+          "72",
+          "78"
+        ]
+      },
+      {
+        "name": "Charley Hoffman",
+        "positions": [
+          "T35",
+          "T35",
+          "T44",
+          "T45"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "72",
+          "75"
+        ]
+      },
+      {
+        "name": "Mackenzie Hughes",
+        "positions": [
+          "T82",
+          "T60",
+          "T47",
+          "T45"
+        ],
+        "scores": [
+          "76",
+          "70",
+          "70",
+          "74"
+        ]
+      },
+      {
+        "name": "Hideki Matsuyama",
+        "positions": [
+          "T13",
+          "T40",
+          "T65",
+          "T45"
+        ],
+        "scores": [
+          "70",
+          "74",
+          "76",
+          "70"
+        ]
+      },
+      {
+        "name": "Danny Lee",
+        "positions": [
+          "T48",
+          "T40",
+          "T61",
+          "T49"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "75",
+          "72"
+        ]
+      },
+      {
+        "name": "Nick Taylor",
+        "positions": [
+          "T9",
+          "T49",
+          "T47",
+          "T49"
+        ],
+        "scores": [
+          "69",
+          "76",
+          "71",
+          "75"
+        ]
+      },
+      {
+        "name": "Gary Woodland",
+        "positions": [
+          "T35",
+          "T49",
+          "T53",
+          "T49"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "72",
+          "74"
+        ]
+      },
+      {
+        "name": "Greg Chalmers",
+        "positions": [
+          "T73",
+          "T35",
+          "T65",
+          "T52"
+        ],
+        "scores": [
+          "75",
+          "68",
+          "77",
+          "72"
+        ]
+      },
+      {
+        "name": "Kevin Chappell",
+        "positions": [
+          "T82",
+          "T49",
+          "T47",
+          "T52"
+        ],
+        "scores": [
+          "76",
+          "69",
+          "71",
+          "76"
+        ]
+      },
+      {
+        "name": "Martin Laird",
+        "positions": [
+          "T26",
+          "T7",
+          "T38",
+          "T52"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "75",
+          "78"
+        ]
+      },
+      {
+        "name": "Sean O'Hair",
+        "positions": [
+          "T48",
+          "T64",
+          "T69",
+          "T52"
+        ],
+        "scores": [
+          "73",
+          "74",
+          "74",
+          "71"
+        ]
+      },
+      {
+        "name": "Brian Stuard",
+        "positions": [
+          "T13",
+          "T40",
+          "T44",
+          "T52"
+        ],
+        "scores": [
+          "70",
+          "74",
+          "71",
+          "77"
+        ]
+      },
+      {
+        "name": "Alex Cejka",
+        "positions": [
+          "T63",
+          "T64",
+          "T71",
+          "T57"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "75",
+          "71"
+        ]
+      },
+      {
+        "name": "Rod Pampling",
+        "positions": [
+          "T35",
+          "T49",
+          "75",
+          "T57"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "78",
+          "70"
+        ]
+      },
+      {
+        "name": "D.A. Points",
+        "positions": [
+          "T26",
+          "T64",
+          "T65",
+          "T57"
+        ],
+        "scores": [
+          "71",
+          "76",
+          "73",
+          "73"
+        ]
+      },
+      {
+        "name": "Patrick Reed",
+        "positions": [
+          "T82",
+          "T64",
+          "T71",
+          "T57"
+        ],
+        "scores": [
+          "76",
+          "71",
+          "75",
+          "71"
+        ]
+      },
+      {
+        "name": "Sam Saunders",
+        "positions": [
+          "T7",
+          "T24",
+          "T27",
+          "T57"
+        ],
+        "scores": [
+          "68",
+          "74",
+          "71",
+          "80"
+        ]
+      },
+      {
+        "name": "Brendan Steele",
+        "positions": [
+          "T35",
+          "T49",
+          "T53",
+          "T57"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "72",
+          "76"
+        ]
+      },
+      {
+        "name": "Zac Blair",
+        "positions": [
+          "T73",
+          "T64",
+          "T58",
+          "T63"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "71",
+          "76"
+        ]
+      },
+      {
+        "name": "Camilo Villegas",
+        "positions": [
+          "T63",
+          "T24",
+          "T53",
+          "T63"
+        ],
+        "scores": [
+          "74",
+          "68",
+          "75",
+          "77"
+        ]
+      },
+      {
+        "name": "Russell Knox",
+        "positions": [
+          "T26",
+          "T20",
+          "T61",
+          "T65"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "78",
+          "76"
+        ]
+      },
+      {
+        "name": "Cameron Smith",
+        "positions": [
+          "T63",
+          "T49",
+          "T58",
+          "T65"
+        ],
+        "scores": [
+          "74",
+          "71",
+          "73",
+          "77"
+        ]
+      },
+      {
+        "name": "K.J. Choi",
+        "positions": [
+          "T109",
+          "T64",
+          "T71",
+          "T67"
+        ],
+        "scores": [
+          "78",
+          "69",
+          "75",
+          "74"
+        ]
+      },
+      {
+        "name": "William McGirt",
+        "positions": [
+          "T26",
+          "T35",
+          "T27",
+          "T67"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "70",
+          "83"
+        ]
+      },
+      {
+        "name": "Patrick Rodgers",
+        "positions": [
+          "T13",
+          "T64",
+          "T61",
+          "T67"
+        ],
+        "scores": [
+          "70",
+          "77",
+          "72",
+          "77"
+        ]
+      },
+      {
+        "name": "Webb Simpson",
+        "positions": [
+          "T48",
+          "T49",
+          "T61",
+          "T67"
+        ],
+        "scores": [
+          "73",
+          "72",
+          "74",
+          "77"
+        ]
+      },
+      {
+        "name": "Søren Kjeldsen",
+        "positions": [
+          "T35",
+          "T49",
+          "T47",
+          "T71"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "71",
+          "81"
+        ]
+      },
+      {
+        "name": "Ollie Schniederjans",
+        "positions": [
+          "T63",
+          "T64",
+          "T65",
+          "T71"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "73",
+          "77"
+        ]
+      },
+      {
+        "name": "Curtis Luck",
+        "positions": [
+          "T102",
+          "T64",
+          "T71",
+          "T73"
+        ],
+        "scores": [
+          "77",
+          "70",
+          "75",
+          "77"
+        ]
+      },
+      {
+        "name": "Vaughn Taylor",
+        "positions": [
+          "T48",
+          "T40",
+          "T69",
+          "T73"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "77",
+          "78"
+        ]
+      },
+      {
+        "name": "Sung Kang",
+        "positions": [
+          "T73",
+          "T64",
+          "T58",
+          "75"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "71",
+          "83"
+        ]
+      },
+      {
+        "name": "Matthew Griffin",
+        "positions": [
+          "T73",
+          "T60",
+          "76",
+          "76"
+        ],
+        "scores": [
+          "75",
+          "71",
+          "78",
+          "82"
+        ]
+      },
+      {
+        "name": "Luke Donald",
+        "positions": [
+          "T35",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Fabián Gómez",
+        "positions": [
+          "T48",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Gregory",
+        "positions": [
+          "T82",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "David Hearn",
+        "positions": [
+          "T63",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Morgan Hoffmann",
+        "positions": [
+          "T82",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ryo Ishikawa",
+        "positions": [
+          "T48",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Luke List",
+        "positions": [
+          "T48",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Hunter Mahan",
+        "positions": [
+          "T73",
+          "T78",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Brendon de Jonge",
+        "positions": [
+          "T35",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Retief Goosen",
+        "positions": [
+          "T102",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Billy Horschel",
+        "positions": [
+          "T109",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Piercy",
+        "positions": [
+          "T102",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Vijay Singh",
+        "positions": [
+          "T82",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Hudson Swafford",
+        "positions": [
+          "T35",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Steven Bowditch",
+        "positions": [
+          "T35",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Brown",
+        "positions": [
+          "T73",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Rafa Cabrera Bello",
+        "positions": [
+          "T117",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "79",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Roberto Castro",
+        "positions": [
+          "T102",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Smylie Kaufman",
+        "positions": [
+          "T48",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Carl Pettersson",
+        "positions": [
+          "T102",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jon Rahm",
+        "positions": [
+          "T48",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kyle Reifers",
+        "positions": [
+          "T13",
+          "T92",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "80",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Aaron Baddeley",
+        "positions": [
+          "T82",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Keegan Bradley",
+        "positions": [
+          "T13",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "81",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jim Furyk",
+        "positions": [
+          "T82",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Patton Kizzire",
+        "positions": [
+          "T109",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ryan Moore",
+        "positions": [
+          "T82",
+          "T100",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ryan Armour",
+        "positions": [
+          "T82",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Matt Every",
+        "positions": [
+          "T82",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Adam Hadwin",
+        "positions": [
+          "T109",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Brian Harman",
+        "positions": [
+          "T82",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Dustin Johnson",
+        "positions": [
+          "T109",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Michael Kim",
+        "positions": [
+          "T82",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Chris Kirk",
+        "positions": [
+          "T82",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kevin Tway",
+        "positions": [
+          "T102",
+          "T105",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Tommy Fleetwood",
+        "positions": [
+          "T102",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Yuta Ikeda",
+        "positions": [
+          "T109",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "J.B. Holmes",
+        "positions": [
+          "T82",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Billy Hurley III",
+        "positions": [
+          "T117",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "79",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kelly Kraft",
+        "positions": [
+          "T109",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Johnson Wagner",
+        "positions": [
+          "T109",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ryan Ruffels",
+        "positions": [
+          "119",
+          "119",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "81",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Si Woo Kim",
+        "positions": [
+          "T82",
+          "T64",
+          "",
+          "W/D"
+        ],
+        "scores": [
+          "76",
+          "71",
+          "--",
+          "--"
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "players": [
+      {
+        "name": "Bryson DeChambeau",
+        "positions": [
+          "T16",
+          "T4",
+          "1",
+          "1"
+        ],
+        "scores": [
+          "69",
+          "67",
+          "66",
+          "71"
+        ]
+      },
+      {
+        "name": "Byeong Hun An",
+        "positions": [
+          "T9",
+          "3",
+          "5",
+          "T2"
+        ],
+        "scores": [
+          "68",
+          "67",
+          "69",
+          "69"
+        ]
+      },
+      {
+        "name": "Kyle Stanley",
+        "positions": [
+          "T5",
+          "T1",
+          "T2",
+          "T2"
+        ],
+        "scores": [
+          "67",
+          "66",
+          "70",
+          "70"
+        ]
+      },
+      {
+        "name": "Patrick Cantlay",
+        "positions": [
+          "T9",
+          "T9",
+          "T2",
+          "4"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "66",
+          "71"
+        ]
+      },
+      {
+        "name": "Peter Uihlein",
+        "positions": [
+          "T16",
+          "T24",
+          "T21",
+          "5"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "70",
+          "66"
+        ]
+      },
+      {
+        "name": "Joaquin Niemann",
+        "positions": [
+          "T1",
+          "T1",
+          "T2",
+          "T6"
+        ],
+        "scores": [
+          "65",
+          "68",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Justin Rose",
+        "positions": [
+          "T29",
+          "T9",
+          "6",
+          "T6"
+        ],
+        "scores": [
+          "71",
+          "66",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "name": "Rickie Fowler",
+        "positions": [
+          "T47",
+          "T44",
+          "T21",
+          "T8"
+        ],
+        "scores": [
+          "72",
+          "69",
+          "68",
+          "68"
+        ]
+      },
+      {
+        "name": "Dustin Johnson",
+        "positions": [
+          "T47",
+          "T14",
+          "T28",
+          "T8"
+        ],
+        "scores": [
+          "72",
+          "66",
+          "72",
+          "67"
+        ]
+      },
+      {
+        "name": "Rory McIlroy",
+        "positions": [
+          "T74",
+          "T69",
+          "T11",
+          "T8"
+        ],
+        "scores": [
+          "74",
+          "70",
+          "64",
+          "69"
+        ]
+      },
+      {
+        "name": "Patrick Rodgers",
+        "positions": [
+          "T9",
+          "T44",
+          "T21",
+          "T8"
+        ],
+        "scores": [
+          "68",
+          "73",
+          "68",
+          "68"
+        ]
+      },
+      {
+        "name": "Justin Thomas",
+        "positions": [
+          "T47",
+          "T44",
+          "T21",
+          "T8"
+        ],
+        "scores": [
+          "72",
+          "69",
+          "68",
+          "68"
+        ]
+      },
+      {
+        "name": "Kiradech Aphibarnrat",
+        "positions": [
+          "T29",
+          "T24",
+          "T11",
+          "T13"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "name": "Tony Finau",
+        "positions": [
+          "T29",
+          "T24",
+          "T37",
+          "T13"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "72",
+          "67"
+        ]
+      },
+      {
+        "name": "Tom Hoge",
+        "positions": [
+          "T29",
+          "T14",
+          "T11",
+          "T13"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "70",
+          "70"
+        ]
+      },
+      {
+        "name": "J.B. Holmes",
+        "positions": [
+          "T24",
+          "T4",
+          "T7",
+          "T13"
+        ],
+        "scores": [
+          "70",
+          "66",
+          "71",
+          "71"
+        ]
+      },
+      {
+        "name": "Matt Kuchar",
+        "positions": [
+          "T29",
+          "T24",
+          "T37",
+          "T13"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "72",
+          "67"
+        ]
+      },
+      {
+        "name": "Hideki Matsuyama",
+        "positions": [
+          "T1",
+          "T4",
+          "T7",
+          "T13"
+        ],
+        "scores": [
+          "65",
+          "71",
+          "71",
+          "71"
+        ]
+      },
+      {
+        "name": "Phil Mickelson",
+        "positions": [
+          "T74",
+          "T35",
+          "T28",
+          "T13"
+        ],
+        "scores": [
+          "74",
+          "66",
+          "70",
+          "68"
+        ]
+      },
+      {
+        "name": "Ryan Moore",
+        "positions": [
+          "T29",
+          "T35",
+          "T11",
+          "T13"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "68",
+          "70"
+        ]
+      },
+      {
+        "name": "Louis Oosthuizen",
+        "positions": [
+          "T24",
+          "T24",
+          "T52",
+          "T13"
+        ],
+        "scores": [
+          "70",
+          "69",
+          "74",
+          "65"
+        ]
+      },
+      {
+        "name": "Henrik Stenson",
+        "positions": [
+          "T29",
+          "T9",
+          "T21",
+          "T13"
+        ],
+        "scores": [
+          "71",
+          "66",
+          "72",
+          "69"
+        ]
+      },
+      {
+        "name": "Ryan Armour",
+        "positions": [
+          "T9",
+          "T14",
+          "T28",
+          "T23"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "72",
+          "69"
+        ]
+      },
+      {
+        "name": "Keegan Bradley",
+        "positions": [
+          "T9",
+          "T14",
+          "T11",
+          "T23"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "70",
+          "71"
+        ]
+      },
+      {
+        "name": "Emiliano Grillo",
+        "positions": [
+          "T47",
+          "T44",
+          "T21",
+          "T23"
+        ],
+        "scores": [
+          "72",
+          "69",
+          "68",
+          "70"
+        ]
+      },
+      {
+        "name": "Martin Laird",
+        "positions": [
+          "T47",
+          "T14",
+          "T28",
+          "T23"
+        ],
+        "scores": [
+          "72",
+          "66",
+          "72",
+          "69"
+        ]
+      },
+      {
+        "name": "Gary Woodland",
+        "positions": [
+          "T16",
+          "T9",
+          "T46",
+          "T23"
+        ],
+        "scores": [
+          "69",
+          "68",
+          "75",
+          "67"
+        ]
+      },
+      {
+        "name": "Tiger Woods",
+        "positions": [
+          "T47",
+          "T24",
+          "T7",
+          "T23"
+        ],
+        "scores": [
+          "72",
+          "67",
+          "68",
+          "72"
+        ]
+      },
+      {
+        "name": "Russell Henley",
+        "positions": [
+          "T29",
+          "T69",
+          "T46",
+          "T29"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "68",
+          "68"
+        ]
+      },
+      {
+        "name": "Si Woo Kim",
+        "positions": [
+          "T29",
+          "T14",
+          "T11",
+          "T29"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Patrick Reed",
+        "positions": [
+          "T29",
+          "T24",
+          "T46",
+          "T29"
+        ],
+        "scores": [
+          "71",
+          "68",
+          "73",
+          "68"
+        ]
+      },
+      {
+        "name": "Julian Suri",
+        "positions": [
+          "T29",
+          "T14",
+          "T11",
+          "T29"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Whee Kim",
+        "positions": [
+          "T61",
+          "T35",
+          "T7",
+          "T29"
+        ],
+        "scores": [
+          "73",
+          "67",
+          "67",
+          "73"
+        ]
+      },
+      {
+        "name": "David Lingmerth",
+        "positions": [
+          "T16",
+          "T52",
+          "T11",
+          "T29"
+        ],
+        "scores": [
+          "69",
+          "73",
+          "66",
+          "72"
+        ]
+      },
+      {
+        "name": "Kelly Kraft",
+        "positions": [
+          "T61",
+          "T44",
+          "T37",
+          "T35"
+        ],
+        "scores": [
+          "73",
+          "68",
+          "70",
+          "70"
+        ]
+      },
+      {
+        "name": "Adam Scott",
+        "positions": [
+          "T47",
+          "T14",
+          "T11",
+          "T35"
+        ],
+        "scores": [
+          "72",
+          "66",
+          "70",
+          "73"
+        ]
+      },
+      {
+        "name": "Anirban Lahiri",
+        "positions": [
+          "T29",
+          "T35",
+          "T21",
+          "T37"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Luke List",
+        "positions": [
+          "T29",
+          "T14",
+          "T37",
+          "T37"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "73",
+          "71"
+        ]
+      },
+      {
+        "name": "Jamie Lovemark",
+        "positions": [
+          "T5",
+          "T35",
+          "T52",
+          "T37"
+        ],
+        "scores": [
+          "67",
+          "73",
+          "73",
+          "69"
+        ]
+      },
+      {
+        "name": "Alex Cejka",
+        "positions": [
+          "T16",
+          "T24",
+          "T37",
+          "T40"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "72",
+          "72"
+        ]
+      },
+      {
+        "name": "Chesson Hadley",
+        "positions": [
+          "T61",
+          "T63",
+          "T58",
+          "T40"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "71",
+          "69"
+        ]
+      },
+      {
+        "name": "Zach Johnson",
+        "positions": [
+          "T85",
+          "T69",
+          "T70",
+          "T40"
+        ],
+        "scores": [
+          "75",
+          "69",
+          "72",
+          "67"
+        ]
+      },
+      {
+        "name": "Jhonattan Vegas",
+        "positions": [
+          "T85",
+          "T52",
+          "T28",
+          "T40"
+        ],
+        "scores": [
+          "75",
+          "67",
+          "68",
+          "73"
+        ]
+      },
+      {
+        "name": "Jason Day",
+        "positions": [
+          "T9",
+          "T4",
+          "T28",
+          "T44"
+        ],
+        "scores": [
+          "68",
+          "68",
+          "74",
+          "74"
+        ]
+      },
+      {
+        "name": "Brian Gay",
+        "positions": [
+          "T16",
+          "T35",
+          "T37",
+          "T44"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Beau Hossler",
+        "positions": [
+          "4",
+          "T9",
+          "T37",
+          "T44"
+        ],
+        "scores": [
+          "66",
+          "71",
+          "74",
+          "73"
+        ]
+      },
+      {
+        "name": "John Huh",
+        "positions": [
+          "T85",
+          "T69",
+          "T52",
+          "T44"
+        ],
+        "scores": [
+          "75",
+          "69",
+          "69",
+          "71"
+        ]
+      },
+      {
+        "name": "Russell Knox",
+        "positions": [
+          "T74",
+          "T63",
+          "T46",
+          "T44"
+        ],
+        "scores": [
+          "74",
+          "69",
+          "69",
+          "72"
+        ]
+      },
+      {
+        "name": "Rory Sabbatini",
+        "positions": [
+          "T61",
+          "T24",
+          "T46",
+          "T44"
+        ],
+        "scores": [
+          "73",
+          "66",
+          "73",
+          "72"
+        ]
+      },
+      {
+        "name": "Kevin Streelman",
+        "positions": [
+          "T74",
+          "T52",
+          "T58",
+          "T44"
+        ],
+        "scores": [
+          "74",
+          "68",
+          "72",
+          "70"
+        ]
+      },
+      {
+        "name": "Bubba Watson",
+        "positions": [
+          "T29",
+          "T14",
+          "T64",
+          "T44"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "77",
+          "69"
+        ]
+      },
+      {
+        "name": "Wesley Bryan",
+        "positions": [
+          "T9",
+          "T4",
+          "T11",
+          "T52"
+        ],
+        "scores": [
+          "68",
+          "68",
+          "72",
+          "77"
+        ]
+      },
+      {
+        "name": "Lucas Glover",
+        "positions": [
+          "T5",
+          "T44",
+          "T52",
+          "T52"
+        ],
+        "scores": [
+          "67",
+          "74",
+          "72",
+          "72"
+        ]
+      },
+      {
+        "name": "Branden Grace",
+        "positions": [
+          "T16",
+          "T35",
+          "T28",
+          "T52"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "70",
+          "75"
+        ]
+      },
+      {
+        "name": "Chris Kirk",
+        "positions": [
+          "T85",
+          "T69",
+          "T28",
+          "T52"
+        ],
+        "scores": [
+          "75",
+          "69",
+          "66",
+          "75"
+        ]
+      },
+      {
+        "name": "Shane Lowry",
+        "positions": [
+          "T61",
+          "T52",
+          "T64",
+          "T52"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "73",
+          "70"
+        ]
+      },
+      {
+        "name": "Abraham Ancer",
+        "positions": [
+          "T1",
+          "T35",
+          "T52",
+          "T57"
+        ],
+        "scores": [
+          "65",
+          "75",
+          "73",
+          "73"
+        ]
+      },
+      {
+        "name": "Bill Haas",
+        "positions": [
+          "T24",
+          "T24",
+          "T37",
+          "T57"
+        ],
+        "scores": [
+          "70",
+          "69",
+          "72",
+          "75"
+        ]
+      },
+      {
+        "name": "Sung Kang",
+        "positions": [
+          "T74",
+          "T44",
+          "T64",
+          "T57"
+        ],
+        "scores": [
+          "74",
+          "67",
+          "74",
+          "71"
+        ]
+      },
+      {
+        "name": "Ted Potter, Jr.",
+        "positions": [
+          "T47",
+          "T52",
+          "T64",
+          "T57"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "73",
+          "71"
+        ]
+      },
+      {
+        "name": "Nick Watney",
+        "positions": [
+          "T29",
+          "T35",
+          "T28",
+          "T57"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "70",
+          "76"
+        ]
+      },
+      {
+        "name": "Andrew Dorn",
+        "positions": [
+          "T16",
+          "T63",
+          "T70",
+          "T62"
+        ],
+        "scores": [
+          "69",
+          "74",
+          "73",
+          "71"
+        ]
+      },
+      {
+        "name": "Brice Garnett",
+        "positions": [
+          "T74",
+          "T52",
+          "T64",
+          "T62"
+        ],
+        "scores": [
+          "74",
+          "68",
+          "73",
+          "72"
+        ]
+      },
+      {
+        "name": "Marc Leishman",
+        "positions": [
+          "T74",
+          "T69",
+          "T37",
+          "T62"
+        ],
+        "scores": [
+          "74",
+          "70",
+          "67",
+          "76"
+        ]
+      },
+      {
+        "name": "Charles Howell III",
+        "positions": [
+          "T61",
+          "T63",
+          "T58",
+          "T65"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "71",
+          "74"
+        ]
+      },
+      {
+        "name": "Andrew Landry",
+        "positions": [
+          "T29",
+          "T69",
+          "T46",
+          "T65"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "68",
+          "76"
+        ]
+      },
+      {
+        "name": "Ollie Schniederjans",
+        "positions": [
+          "T61",
+          "T52",
+          "T64",
+          "T65"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "73",
+          "73"
+        ]
+      },
+      {
+        "name": "Kevin Tway",
+        "positions": [
+          "T85",
+          "T52",
+          "T70",
+          "T65"
+        ],
+        "scores": [
+          "75",
+          "67",
+          "74",
+          "72"
+        ]
+      },
+      {
+        "name": "Vijay Singh",
+        "positions": [
+          "T85",
+          "T44",
+          "T58",
+          "69"
+        ],
+        "scores": [
+          "75",
+          "66",
+          "73",
+          "75"
+        ]
+      },
+      {
+        "name": "Yusaku Miyazato",
+        "positions": [
+          "T61",
+          "T69",
+          "T58",
+          "T70"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "70",
+          "76"
+        ]
+      },
+      {
+        "name": "Pat Perez",
+        "positions": [
+          "T47",
+          "T52",
+          "T70",
+          "T70"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "74",
+          "74"
+        ]
+      },
+      {
+        "name": "Brian Stuard",
+        "positions": [
+          "T47",
+          "T52",
+          "T58",
+          "T70"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "72",
+          "76"
+        ]
+      },
+      {
+        "name": "Grayson Murray",
+        "positions": [
+          "T5",
+          "T24",
+          "T52",
+          "73"
+        ],
+        "scores": [
+          "67",
+          "72",
+          "74",
+          "81"
+        ]
+      },
+      {
+        "name": "Adam Hadwin",
+        "positions": [
+          "T74",
+          "T69",
+          "T74",
+          "T74"
+        ],
+        "scores": [
+          "74",
+          "70",
+          "73",
+          "--"
+        ]
+      },
+      {
+        "name": "Yuta Ikeda",
+        "positions": [
+          "T102",
+          "T69",
+          "T74",
+          "T74"
+        ],
+        "scores": [
+          "76",
+          "68",
+          "73",
+          "--"
+        ]
+      },
+      {
+        "name": "Kevin Kisner",
+        "positions": [
+          "T24",
+          "T69",
+          "T74",
+          "T74"
+        ],
+        "scores": [
+          "70",
+          "74",
+          "73",
+          "--"
+        ]
+      },
+      {
+        "name": "Patton Kizzire",
+        "positions": [
+          "T47",
+          "T69",
+          "T74",
+          "T74"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "73",
+          "--"
+        ]
+      },
+      {
+        "name": "John Senden",
+        "positions": [
+          "T61",
+          "T52",
+          "T74",
+          "T74"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "75",
+          "--"
+        ]
+      },
+      {
+        "name": "Rod Pampling",
+        "positions": [
+          "T61",
+          "T63",
+          "79",
+          "79"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "75",
+          "--"
+        ]
+      },
+      {
+        "name": "Robert Streb",
+        "positions": [
+          "T29",
+          "T63",
+          "80",
+          "80"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "80",
+          "--"
+        ]
+      },
+      {
+        "name": "Sam Burns",
+        "positions": [
+          "T61",
+          "T69",
+          "81",
+          "81"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "81",
+          "--"
+        ]
+      },
+      {
+        "name": "James Hahn",
+        "positions": [
+          "T114",
+          "T82",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "67",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Mackenzie Hughes",
+        "positions": [
+          "T47",
+          "T82",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kenny Perry",
+        "positions": [
+          "T61",
+          "T82",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Martin Piller",
+        "positions": [
+          "T102",
+          "T82",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "69",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Brown",
+        "positions": [
+          "T47",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kevin Chappell",
+        "positions": [
+          "T102",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Cameron Davis",
+        "positions": [
+          "T47",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Billy Horschel",
+        "positions": [
+          "T24",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "William McGirt",
+        "positions": [
+          "T74",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Xander Schauffele",
+        "positions": [
+          "T85",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Charl Schwartzel",
+        "positions": [
+          "T109",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "69",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Aaron Wise",
+        "positions": [
+          "T85",
+          "T86",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jim Furyk",
+        "positions": [
+          "T102",
+          "T94",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Charley Hoffman",
+        "positions": [
+          "T74",
+          "T94",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Satoshi Kodaira",
+        "positions": [
+          "T74",
+          "T94",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Sean O'Hair",
+        "positions": [
+          "T85",
+          "T94",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Doc Redman",
+        "positions": [
+          "T109",
+          "T94",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Cameron Smith",
+        "positions": [
+          "T85",
+          "T94",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jordan Spieth",
+        "positions": [
+          "T85",
+          "T94",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jonas Blixt",
+        "positions": [
+          "T29",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Stewart Cink",
+        "positions": [
+          "T85",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Austin Cook",
+        "positions": [
+          "T102",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jason Dufner",
+        "positions": [
+          "T85",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Shubhankar Sharma",
+        "positions": [
+          "T102",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "J.J. Spaun",
+        "positions": [
+          "T109",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Will Zalatoris",
+        "positions": [
+          "T85",
+          "T101",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ernie Els",
+        "positions": [
+          "T85",
+          "T108",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Brandon Harkins",
+        "positions": [
+          "T116",
+          "T108",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "79",
+          "70",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kevin Na",
+        "positions": [
+          "T114",
+          "T110",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Daniel Summerhays",
+        "positions": [
+          "T85",
+          "T110",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Carl Pettersson",
+        "positions": [
+          "T85",
+          "112",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Bud Cauley",
+        "positions": [
+          "T109",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Harry Ellis",
+        "positions": [
+          "T61",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "80",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Trey Mullinax",
+        "positions": [
+          "T109",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "K.J. Choi",
+        "positions": [
+          "118",
+          "116",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "80",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Sangmoon Bae",
+        "positions": [
+          "T116",
+          "T117",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "79",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Danny Lee",
+        "positions": [
+          "120",
+          "T117",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "83",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jason Kokrak",
+        "positions": [
+          "T102",
+          "119",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "82",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Keith Mitchell",
+        "positions": [
+          "119",
+          "120",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "82",
+          "77",
+          "--",
+          "--"
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "players": [
+      {
+        "name": "Patrick Cantlay",
+        "positions": [
+          "T8",
+          "T5",
+          "T3",
+          "1"
+        ],
+        "scores": [
+          "68",
+          "69",
+          "68",
+          "64"
+        ]
+      },
+      {
+        "name": "Adam Scott",
+        "positions": [
+          "T30",
+          "T5",
+          "2",
+          "2"
+        ],
+        "scores": [
+          "71",
+          "66",
+          "66",
+          "68"
+        ]
+      },
+      {
+        "name": "Martin Kaymer",
+        "positions": [
+          "T3",
+          "T1",
+          "1",
+          "3"
+        ],
+        "scores": [
+          "67",
+          "68",
+          "66",
+          "72"
+        ]
+      },
+      {
+        "name": "Kevin Streelman",
+        "positions": [
+          "T45",
+          "T18",
+          "T10",
+          "4"
+        ],
+        "scores": [
+          "72",
+          "68",
+          "69",
+          "66"
+        ]
+      },
+      {
+        "name": "Marc Leishman",
+        "positions": [
+          "T3",
+          "T10",
+          "T6",
+          "5"
+        ],
+        "scores": [
+          "67",
+          "71",
+          "69",
+          "69"
+        ]
+      },
+      {
+        "name": "Hideki Matsuyama",
+        "positions": [
+          "T30",
+          "T25",
+          "T3",
+          "6"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "64",
+          "72"
+        ]
+      },
+      {
+        "name": "Jason Dufner",
+        "positions": [
+          "T45",
+          "T25",
+          "T10",
+          "T7"
+        ],
+        "scores": [
+          "72",
+          "69",
+          "68",
+          "69"
+        ]
+      },
+      {
+        "name": "Jordan Spieth",
+        "positions": [
+          "2",
+          "4",
+          "T3",
+          "T7"
+        ],
+        "scores": [
+          "66",
+          "70",
+          "69",
+          "73"
+        ]
+      },
+      {
+        "name": "Bud Cauley",
+        "positions": [
+          "T3",
+          "T5",
+          "T6",
+          "T9"
+        ],
+        "scores": [
+          "67",
+          "70",
+          "70",
+          "72"
+        ]
+      },
+      {
+        "name": "Emiliano Grillo",
+        "positions": [
+          "T12",
+          "T5",
+          "9",
+          "T9"
+        ],
+        "scores": [
+          "69",
+          "68",
+          "71",
+          "71"
+        ]
+      },
+      {
+        "name": "Billy Horschel",
+        "positions": [
+          "T30",
+          "T25",
+          "T18",
+          "T9"
+        ],
+        "scores": [
+          "71",
+          "70",
+          "70",
+          "68"
+        ]
+      },
+      {
+        "name": "Tiger Woods",
+        "positions": [
+          "T23",
+          "T33",
+          "T25",
+          "T9"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "70",
+          "67"
+        ]
+      },
+      {
+        "name": "Justin Rose",
+        "positions": [
+          "T88",
+          "T10",
+          "T10",
+          "13"
+        ],
+        "scores": [
+          "75",
+          "63",
+          "71",
+          "71"
+        ]
+      },
+      {
+        "name": "Rickie Fowler",
+        "positions": [
+          "T12",
+          "T5",
+          "T10",
+          "T14"
+        ],
+        "scores": [
+          "69",
+          "68",
+          "72",
+          "72"
+        ]
+      },
+      {
+        "name": "Xander Schauffele",
+        "positions": [
+          "T12",
+          "T15",
+          "T18",
+          "T14"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "72",
+          "70"
+        ]
+      },
+      {
+        "name": "Michael Thompson",
+        "positions": [
+          "T30",
+          "T33",
+          "T31",
+          "T14"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "71",
+          "68"
+        ]
+      },
+      {
+        "name": "Byeong Hun An",
+        "positions": [
+          "T45",
+          "T55",
+          "T37",
+          "T17"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "70",
+          "68"
+        ]
+      },
+      {
+        "name": "Kiradech Aphibarnrat",
+        "positions": [
+          "T23",
+          "T25",
+          "T25",
+          "T17"
+        ],
+        "scores": [
+          "70",
+          "71",
+          "71",
+          "70"
+        ]
+      },
+      {
+        "name": "Peter Malnati",
+        "positions": [
+          "T45",
+          "T55",
+          "T31",
+          "T17"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "69",
+          "69"
+        ]
+      },
+      {
+        "name": "Troy Merritt",
+        "positions": [
+          "T12",
+          "T1",
+          "T10",
+          "T17"
+        ],
+        "scores": [
+          "69",
+          "66",
+          "74",
+          "73"
+        ]
+      },
+      {
+        "name": "Andrew Putnam",
+        "positions": [
+          "T8",
+          "T10",
+          "T25",
+          "T17"
+        ],
+        "scores": [
+          "68",
+          "70",
+          "74",
+          "70"
+        ]
+      },
+      {
+        "name": "Ryan Armour",
+        "positions": [
+          "T30",
+          "T33",
+          "T31",
+          "T22"
+        ],
+        "scores": [
+          "71",
+          "71",
+          "71",
+          "70"
+        ]
+      },
+      {
+        "name": "Aaron Baddeley",
+        "positions": [
+          "T45",
+          "T33",
+          "T15",
+          "T22"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "68",
+          "73"
+        ]
+      },
+      {
+        "name": "Bryson DeChambeau",
+        "positions": [
+          "T78",
+          "T55",
+          "T59",
+          "T22"
+        ],
+        "scores": [
+          "74",
+          "70",
+          "73",
+          "66"
+        ]
+      },
+      {
+        "name": "Steve Stricker",
+        "positions": [
+          "T12",
+          "T65",
+          "T25",
+          "T22"
+        ],
+        "scores": [
+          "69",
+          "76",
+          "67",
+          "71"
+        ]
+      },
+      {
+        "name": "Nick Watney",
+        "positions": [
+          "T78",
+          "T33",
+          "T18",
+          "T22"
+        ],
+        "scores": [
+          "74",
+          "68",
+          "69",
+          "72"
+        ]
+      },
+      {
+        "name": "Austin Cook",
+        "positions": [
+          "T30",
+          "T10",
+          "T37",
+          "T27"
+        ],
+        "scores": [
+          "71",
+          "67",
+          "76",
+          "70"
+        ]
+      },
+      {
+        "name": "Brian Harman",
+        "positions": [
+          "T30",
+          "T18",
+          "T18",
+          "T27"
+        ],
+        "scores": [
+          "71",
+          "69",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Russell Knox",
+        "positions": [
+          "T8",
+          "T25",
+          "T31",
+          "T27"
+        ],
+        "scores": [
+          "68",
+          "73",
+          "72",
+          "71"
+        ]
+      },
+      {
+        "name": "Joaquin Niemann",
+        "positions": [
+          "T45",
+          "T44",
+          "T18",
+          "T27"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "68",
+          "73"
+        ]
+      },
+      {
+        "name": "Rory Sabbatini",
+        "positions": [
+          "T66",
+          "T55",
+          "T37",
+          "T27"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "70",
+          "70"
+        ]
+      },
+      {
+        "name": "Danny Willett",
+        "positions": [
+          "T12",
+          "T10",
+          "T15",
+          "T27"
+        ],
+        "scores": [
+          "69",
+          "69",
+          "72",
+          "74"
+        ]
+      },
+      {
+        "name": "Jim Furyk",
+        "positions": [
+          "T45",
+          "T25",
+          "T51",
+          "T33"
+        ],
+        "scores": [
+          "72",
+          "69",
+          "75",
+          "69"
+        ]
+      },
+      {
+        "name": "Tyrrell Hatton",
+        "positions": [
+          "T30",
+          "T44",
+          "T44",
+          "T33"
+        ],
+        "scores": [
+          "71",
+          "72",
+          "72",
+          "70"
+        ]
+      },
+      {
+        "name": "Ryan Moore",
+        "positions": [
+          "1",
+          "T18",
+          "T44",
+          "T33"
+        ],
+        "scores": [
+          "65",
+          "75",
+          "75",
+          "70"
+        ]
+      },
+      {
+        "name": "Brian Stuard",
+        "positions": [
+          "T113",
+          "T44",
+          "T37",
+          "T33"
+        ],
+        "scores": [
+          "78",
+          "65",
+          "71",
+          "71"
+        ]
+      },
+      {
+        "name": "Max Homa",
+        "positions": [
+          "T23",
+          "T33",
+          "T51",
+          "T37"
+        ],
+        "scores": [
+          "70",
+          "72",
+          "74",
+          "70"
+        ]
+      },
+      {
+        "name": "Kyoung-Hoon Lee",
+        "positions": [
+          "T8",
+          "T1",
+          "T6",
+          "T37"
+        ],
+        "scores": [
+          "68",
+          "67",
+          "72",
+          "79"
+        ]
+      },
+      {
+        "name": "Haotong Li",
+        "positions": [
+          "T12",
+          "T25",
+          "T44",
+          "T37"
+        ],
+        "scores": [
+          "69",
+          "72",
+          "74",
+          "71"
+        ]
+      },
+      {
+        "name": "Henrik Stenson",
+        "positions": [
+          "T23",
+          "T18",
+          "T44",
+          "T37"
+        ],
+        "scores": [
+          "70",
+          "70",
+          "75",
+          "71"
+        ]
+      },
+      {
+        "name": "Rafa Cabrera Bello",
+        "positions": [
+          "T45",
+          "T44",
+          "T59",
+          "T41"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "74",
+          "70"
+        ]
+      },
+      {
+        "name": "Matt Jones",
+        "positions": [
+          "T88",
+          "T33",
+          "T18",
+          "T41"
+        ],
+        "scores": [
+          "75",
+          "67",
+          "69",
+          "76"
+        ]
+      },
+      {
+        "name": "Si Woo Kim",
+        "positions": [
+          "T12",
+          "T15",
+          "T44",
+          "T41"
+        ],
+        "scores": [
+          "69",
+          "70",
+          "76",
+          "72"
+        ]
+      },
+      {
+        "name": "Kevin Kisner",
+        "positions": [
+          "T88",
+          "T33",
+          "T44",
+          "T41"
+        ],
+        "scores": [
+          "75",
+          "67",
+          "73",
+          "72"
+        ]
+      },
+      {
+        "name": "David Lingmerth",
+        "positions": [
+          "T30",
+          "T65",
+          "T51",
+          "T41"
+        ],
+        "scores": [
+          "71",
+          "74",
+          "71",
+          "71"
+        ]
+      },
+      {
+        "name": "Alex Noren",
+        "positions": [
+          "T66",
+          "T44",
+          "T25",
+          "T41"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "69",
+          "75"
+        ]
+      },
+      {
+        "name": "Brendan Steele",
+        "positions": [
+          "T30",
+          "T55",
+          "T68",
+          "T41"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "75",
+          "68"
+        ]
+      },
+      {
+        "name": "David Lipsky",
+        "positions": [
+          "T23",
+          "T18",
+          "T51",
+          "T48"
+        ],
+        "scores": [
+          "70",
+          "70",
+          "76",
+          "72"
+        ]
+      },
+      {
+        "name": "Keith Mitchell",
+        "positions": [
+          "T66",
+          "T33",
+          "T25",
+          "T48"
+        ],
+        "scores": [
+          "73",
+          "69",
+          "70",
+          "76"
+        ]
+      },
+      {
+        "name": "Scott Stallings",
+        "positions": [
+          "T12",
+          "T44",
+          "T51",
+          "T48"
+        ],
+        "scores": [
+          "69",
+          "74",
+          "73",
+          "72"
+        ]
+      },
+      {
+        "name": "Vaughn Taylor",
+        "positions": [
+          "T3",
+          "T15",
+          "T18",
+          "T48"
+        ],
+        "scores": [
+          "67",
+          "72",
+          "72",
+          "77"
+        ]
+      },
+      {
+        "name": "Lucas Glover",
+        "positions": [
+          "T45",
+          "T55",
+          "T31",
+          "T52"
+        ],
+        "scores": [
+          "72",
+          "72",
+          "69",
+          "76"
+        ]
+      },
+      {
+        "name": "Adam Hadwin",
+        "positions": [
+          "T45",
+          "T65",
+          "T63",
+          "T52"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "73",
+          "71"
+        ]
+      },
+      {
+        "name": "Anirban Lahiri",
+        "positions": [
+          "T3",
+          "T44",
+          "T63",
+          "T52"
+        ],
+        "scores": [
+          "67",
+          "76",
+          "75",
+          "71"
+        ]
+      },
+      {
+        "name": "J.T. Poston",
+        "positions": [
+          "T45",
+          "T65",
+          "T51",
+          "T52"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "name": "Gary Woodland",
+        "positions": [
+          "T12",
+          "T18",
+          "T37",
+          "T52"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "74",
+          "75"
+        ]
+      },
+      {
+        "name": "Luke Donald",
+        "positions": [
+          "T45",
+          "T65",
+          "T15",
+          "T57"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "65",
+          "80"
+        ]
+      },
+      {
+        "name": "Sungjae Im",
+        "positions": [
+          "T45",
+          "T33",
+          "T59",
+          "T57"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "75",
+          "73"
+        ]
+      },
+      {
+        "name": "Louis Oosthuizen",
+        "positions": [
+          "T66",
+          "T44",
+          "T37",
+          "T57"
+        ],
+        "scores": [
+          "73",
+          "70",
+          "71",
+          "76"
+        ]
+      },
+      {
+        "name": "Pat Perez",
+        "positions": [
+          "T88",
+          "T65",
+          "T51",
+          "T57"
+        ],
+        "scores": [
+          "75",
+          "70",
+          "71",
+          "74"
+        ]
+      },
+      {
+        "name": "Sam Ryder",
+        "positions": [
+          "T12",
+          "T18",
+          "T37",
+          "T57"
+        ],
+        "scores": [
+          "69",
+          "71",
+          "74",
+          "76"
+        ]
+      },
+      {
+        "name": "Jason Kokrak",
+        "positions": [
+          "T30",
+          "T55",
+          "T51",
+          "T62"
+        ],
+        "scores": [
+          "71",
+          "73",
+          "72",
+          "75"
+        ]
+      },
+      {
+        "name": "Joost Luiten",
+        "positions": [
+          "T66",
+          "T55",
+          "T63",
+          "T62"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "74",
+          "73"
+        ]
+      },
+      {
+        "name": "Shubhankar Sharma",
+        "positions": [
+          "T66",
+          "T55",
+          "T31",
+          "T62"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "69",
+          "78"
+        ]
+      },
+      {
+        "name": "Abraham Ancer",
+        "positions": [
+          "T45",
+          "T44",
+          "T63",
+          "T65"
+        ],
+        "scores": [
+          "72",
+          "71",
+          "75",
+          "74"
+        ]
+      },
+      {
+        "name": "Corey Conners",
+        "positions": [
+          "T45",
+          "T25",
+          "T44",
+          "T65"
+        ],
+        "scores": [
+          "72",
+          "69",
+          "74",
+          "77"
+        ]
+      },
+      {
+        "name": "Adam Schenk",
+        "positions": [
+          "T30",
+          "T65",
+          "T59",
+          "T65"
+        ],
+        "scores": [
+          "71",
+          "74",
+          "72",
+          "75"
+        ]
+      },
+      {
+        "name": "Joel Dahmen",
+        "positions": [
+          "T45",
+          "T33",
+          "T68",
+          "T68"
+        ],
+        "scores": [
+          "72",
+          "70",
+          "77",
+          "74"
+        ]
+      },
+      {
+        "name": "Matthew Fitzpatrick",
+        "positions": [
+          "T66",
+          "T55",
+          "T63",
+          "T68"
+        ],
+        "scores": [
+          "73",
+          "71",
+          "74",
+          "75"
+        ]
+      },
+      {
+        "name": "Norman Xiong",
+        "positions": [
+          "T45",
+          "T65",
+          "72",
+          "T68"
+        ],
+        "scores": [
+          "72",
+          "73",
+          "76",
+          "72"
+        ]
+      },
+      {
+        "name": "K.J. Choi",
+        "positions": [
+          "T101",
+          "T44",
+          "T70",
+          "T71"
+        ],
+        "scores": [
+          "76",
+          "67",
+          "77",
+          "77"
+        ]
+      },
+      {
+        "name": "Boo Weekley",
+        "positions": [
+          "T78",
+          "T65",
+          "73",
+          "T71"
+        ],
+        "scores": [
+          "74",
+          "71",
+          "79",
+          "73"
+        ]
+      },
+      {
+        "name": "Ted Potter, Jr.",
+        "positions": [
+          "T23",
+          "T44",
+          "T70",
+          "73"
+        ],
+        "scores": [
+          "70",
+          "73",
+          "77",
+          "80"
+        ]
+      },
+      {
+        "name": "Brice Garnett",
+        "positions": [
+          "T78",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Charley Hoffman",
+        "positions": [
+          "T66",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Michael Kim",
+        "positions": [
+          "T30",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Whee Kim",
+        "positions": [
+          "T117",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "79",
+          "67",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Rory McIlroy",
+        "positions": [
+          "T88",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "J.J. Spaun",
+        "positions": [
+          "T30",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kyle Stanley",
+        "positions": [
+          "T78",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Justin Suh",
+        "positions": [
+          "T78",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jhonattan Vegas",
+        "positions": [
+          "T45",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Aaron Wise",
+        "positions": [
+          "T78",
+          "T74",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Scott Brown",
+        "positions": [
+          "T88",
+          "T84",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Bronson Burgoon",
+        "positions": [
+          "T66",
+          "T84",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ryan Fox",
+        "positions": [
+          "T88",
+          "T84",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Branden Grace",
+        "positions": [
+          "T88",
+          "T84",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "J.B. Holmes",
+        "positions": [
+          "T101",
+          "T84",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Matt Kuchar",
+        "positions": [
+          "T66",
+          "T84",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jovan Rebula",
+        "positions": [
+          "T113",
+          "T84",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "69",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Keegan Bradley",
+        "positions": [
+          "T78",
+          "T91",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Brian Gay",
+        "positions": [
+          "T45",
+          "T91",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Bill Haas",
+        "positions": [
+          "T101",
+          "T91",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Chesson Hadley",
+        "positions": [
+          "T66",
+          "T91",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Danny Lee",
+        "positions": [
+          "T107",
+          "T91",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Carlos Ortiz",
+        "positions": [
+          "T88",
+          "T91",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Peter Uihlein",
+        "positions": [
+          "T107",
+          "T91",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "71",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Cameron Champ",
+        "positions": [
+          "T45",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Jason Day",
+        "positions": [
+          "T88",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Beau Hossler",
+        "positions": [
+          "120",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "82",
+          "67",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Patton Kizzire",
+        "positions": [
+          "T88",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Phil Mickelson",
+        "positions": [
+          "T23",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "70",
+          "79",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Alvaro Ortiz",
+        "positions": [
+          "T78",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Robert Streb",
+        "positions": [
+          "T101",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Harold Varner III",
+        "positions": [
+          "T78",
+          "T98",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "74",
+          "75",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Charles Howell III",
+        "positions": [
+          "T45",
+          "T106",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "72",
+          "78",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Kelly Kraft",
+        "positions": [
+          "T66",
+          "T106",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "73",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Matt Every",
+        "positions": [
+          "T117",
+          "T108",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "79",
+          "72",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Tony Finau",
+        "positions": [
+          "T107",
+          "T108",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Andrew Landry",
+        "positions": [
+          "T113",
+          "T108",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "78",
+          "73",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Cameron Smith",
+        "positions": [
+          "T107",
+          "T108",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "74",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Justin Thomas",
+        "positions": [
+          "T30",
+          "T108",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "71",
+          "80",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Talor Gooch",
+        "positions": [
+          "T101",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Will Grimmer",
+        "positions": [
+          "T88",
+          "T113",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Sung Kang",
+        "positions": [
+          "T107",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Luke List",
+        "positions": [
+          "T107",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "77",
+          "76",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Adam Long",
+        "positions": [
+          "T101",
+          "T115",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "76",
+          "77",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Martin Trainer",
+        "positions": [
+          "T88",
+          "118",
+          "",
+          "CUT"
+        ],
+        "scores": [
+          "75",
+          "83",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Ernie Els",
+        "positions": [
+          "T113",
+          "",
+          "",
+          "W/D"
+        ],
+        "scores": [
+          "78",
+          "--",
+          "--",
+          "--"
+        ]
+      },
+      {
+        "name": "Sam Burns",
+        "positions": [
+          "119",
+          "",
+          "",
+          "W/D"
+        ],
+        "scores": [
+          "81",
+          "--",
+          "--",
+          "--"
+        ]
+      }
+    ]
+  }
+]
